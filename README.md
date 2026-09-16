@@ -47,6 +47,42 @@
 
 ---
 
+## 🌙 달빛달력 (Moonlight Calendar)
+
+<p align="center">
+  <a href="https://crowtit517.github.io/moonlight_calendar/">
+    <img src="https://img.shields.io/badge/▶_바로_사용해보기-6d5fd3?style=for-the-badge" alt="바로 사용해보기">
+  </a>
+</p>
+
+하루에서 며칠까지, 원하는 색으로 일정을 담아두는 다크 테마 캘린더입니다.
+일정 관리뿐 아니라 그날그날의 지출을 기록하는 가계부까지 한 화면에 담았어요.
+
+> 🔗 **바로가기:** https://crowtit517.github.io/moonlight_calendar/
+
+### 소개
+
+남색과 보랏빛이 감도는 밤하늘 톤 위에, 하루짜리 일정부터 여러 날에 걸친 일정까지
+막대 형태로 한눈에 볼 수 있도록 그렸습니다. 날짜를 누르면 그날의 일정과 지출을
+함께 확인할 수 있는 패널이 옆에 붙어 있어요.
+
+### ✨ 특징
+
+| 기능 | 설명 |
+|---|---|
+| 📅 기간 일정 | 하루짜리부터 여러 날짜에 걸친 일정까지, 달력 위에 막대로 표시 |
+| ⏰ 시간 지정 | 오전/오후 스크롤 선택 또는 직접 입력 모두 지원 |
+| ✅ 할 일 모드 | 일정을 할 일로 등록하고 체크박스로 완료 표시 |
+| 🎨 색상 커스터마이즈 | 5가지 프리셋 색상 + 원하는 색을 직접 고르는 컬러 피커 |
+| 🪙 가계부 | 날짜별 지출 기록, 월별·연간 지출 그래프까지 자동 집계 |
+
+### 🛠 기술 스택
+
+- 순수 **HTML / CSS / JavaScript** (프레임워크·빌드 과정 없음)
+- 별도 저장소 [moonlight_calendar](https://github.com/Crowtit517/moonlight_calendar)에서 관리됩니다.
+
+---
+
 ## 🗂️ 저장소 구조
 
 ```
@@ -55,6 +91,8 @@ Agent_Ai/
     └── minesweeper/
         └── index.html   # 지뢰찾기 게임 (단일 파일)
 ```
+
+> 🌙 달빛달력은 [별도 저장소](https://github.com/Crowtit517/moonlight_calendar)에서 관리됩니다.
 
 ---
 
