@@ -1,7 +1,52 @@
-# Agent_Ai
+# 🎮 Agent_Ai
 
-Claude와 함께 정리/관리하는 개인 저장소입니다.
+> Claude와 함께 만들고 정리하는 미니 프로젝트 저장소입니다.
+> 필요할 때마다 하나씩 프로젝트를 추가하고, 여기서 소개합니다.
 
-## 목차
+---
 
-- [games/minesweeper](games/minesweeper/index.html) — 브라우저에서 바로 실행되는 지뢰찾기 게임 (순수 HTML/CSS/JS)
+## 📌 지금 올라온 프로젝트
+
+### 💣 지뢰찾기 (Minesweeper)
+
+[![Play](https://img.shields.io/badge/▶_바로_플레이하기-e94560?style=for-the-badge)](games/minesweeper/index.html)
+
+어릴 적 윈도우에 깔려있던 그 지뢰찾기를, 다크 테마로 다시 만들었습니다.
+설치도, 로그인도 필요 없이 `index.html` 파일 하나만 브라우저로 열면 바로 즐길 수 있어요.
+
+**특징**
+
+- 🕹️ 쉬움(9×9) · 보통(16×16) · 어려움(30×16) 3단계 난이도
+- ⏱️ 실시간 타이머 & 남은 지뢰 카운터
+- 🚩 우클릭으로 깃발 표시
+- 😊 상태에 따라 바뀌는 스마일 버튼 (😊 → 😵 / 😎)
+- 🎨 다크 네이비 톤의 카드형 UI, 숫자별 색상 구분
+
+**폴더 위치**
+
+```
+games/minesweeper/index.html
+```
+
+**실행 방법**
+
+1. 저장소를 클론하거나 다운로드
+2. `games/minesweeper/index.html` 파일을 브라우저로 열기
+3. 좌클릭으로 칸 열기, 우클릭으로 깃발 표시
+
+---
+
+## 🗂️ 저장소 구조
+
+```
+Agent_Ai/
+└── games/
+    └── minesweeper/
+        └── index.html   # 지뢰찾기 게임 (HTML/CSS/JS 단일 파일)
+```
+
+---
+
+## ✨ 앞으로
+
+새로운 미니 게임이나 도구가 추가될 때마다 이 목록도 함께 업데이트됩니다.
